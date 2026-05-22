@@ -3,7 +3,7 @@ import {useState,useEffect} from "react";
 import {
 obtenerHistorial
 }
-from "../services/apiService";
+from "../services/ApiService";
 
 
 export default function useHistorial(){
